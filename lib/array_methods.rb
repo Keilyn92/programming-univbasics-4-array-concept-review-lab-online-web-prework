@@ -1,6 +1,5 @@
 def find_element_index(1, unshift)
-  
-  # Add your solution here
+   # Add your solution here
 end
 
 def find_max_value(array)
